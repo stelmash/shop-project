@@ -181,7 +181,8 @@ body{
     background-position: 91% 50%;
 }
 
-.arrow:hover, .arrow:active {
+
+.arrow:hover, .arrow:active, .submenu:hover .arrow  {
     background-image: url("images/arrowwhite.png");
     background-repeat: no-repeat;
     background-position: 91% 50%;
