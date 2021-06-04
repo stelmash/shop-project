@@ -321,10 +321,10 @@ sup {
 }
 
 .details {
-    background-color: rgba(255,255,255,0);
+    background-color: #2c71b8;
     margin-bottom: 15px;
 }
 
 .add {
-    background-color: rgba(255,255,255,0.2);
+    background-color: #598fc7;
 }
